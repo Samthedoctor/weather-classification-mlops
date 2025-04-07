@@ -13,3 +13,6 @@ boto3
 pytest
 pyspark
 apache-airflow
+python-dotenv
+pyyaml
+xgboost

@@ -1,0 +1,4 @@
+data:
+  batch_size: 150
+model:
+  optuna_trials: 20
