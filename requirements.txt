@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+tensorflow
+keras
+mlflow
+fastapi
+ipykernel
+boto3
+pytest
+pyspark
+apache-airflow
